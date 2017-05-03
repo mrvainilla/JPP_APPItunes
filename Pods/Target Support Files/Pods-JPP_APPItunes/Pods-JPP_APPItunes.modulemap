@@ -1,0 +1,6 @@
+framework module Pods_JPP_APPItunes {
+  umbrella header "Pods-JPP_APPItunes-umbrella.h"
+
+  export *
+  module * { export * }
+}
